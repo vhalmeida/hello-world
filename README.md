@@ -1,2 +1,2 @@
 # hello-world
-My initiation ceremony
+My initiation ceremony.
